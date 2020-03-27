@@ -4,7 +4,7 @@ import os
 import time
 import datetime
 import discord
-TOKEN = "NjkyMzQwMzY4ODI5NzEwNDA2.XntGjA.gRvZEmghoKzEwxYTEmOyXwZNTjM"
+TOKEN = "NjkyMzQwMzY4ODI5NzEwNDA2.Xn2S0A.qCcya3tUCRWYhaDzZfUXh3YecH0"
 GUILD = "Same"
 
 client = discord.Client()
